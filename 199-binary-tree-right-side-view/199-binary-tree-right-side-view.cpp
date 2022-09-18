@@ -10,23 +10,22 @@
  * };
  */
 class Solution {
-public:
     
-    vector<int> solve(TreeNode* root, vector<int> res, int lvl){
-        if (root==NULL){
-            return res;
-        }
-        if (res.size()==lvl)          // root
-            res.push_back(root->val);
+private:
+    void rightViewUtil(TreeNode *root, int level, vector<int> &v) {
+        if(root == NULL)
+            return;
         
-        res = solve(root->right , res , lvl + 1);     // right
-        res = solve(root->left , res , lvl + 1);       // left
-        return res;
+        if(v.size() == level)
+            v.push_back(root->val);
+        
+        rightViewUtil(root->right, level + 1, v);
+        rightViewUtil(root->left, level + 1, v);
     }
-    
+public:
     vector<int> rightSideView(TreeNode* root) {
-        vector<int> res;
-        res = solve( root , res , 0 );
-        return res;
+        vector <int> v;
+        rightViewUtil(root, 0, v);
+        return v;
     }
 };
