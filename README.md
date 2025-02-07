@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1927-maximum-ascending-subarray-sum](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -65,8 +66,13 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Simulation
+|  |
+| ------- |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
