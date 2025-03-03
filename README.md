@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
@@ -181,4 +183,5 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 <!---LeetCode Topics End-->
