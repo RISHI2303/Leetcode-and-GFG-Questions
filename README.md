@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2665-minimum-time-to-repair-cars](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3227-find-missing-and-repeated-values) |
@@ -212,5 +213,6 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2665-minimum-time-to-repair-cars](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
