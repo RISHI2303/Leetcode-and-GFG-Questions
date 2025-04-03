@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2690-house-robber-iv](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3227-find-missing-and-repeated-values) |
