@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3447-clear-digits](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2456-construct-smallest-number-from-di-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Tree
 |  |
@@ -285,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2262-solving-questions-with-brainpower) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
 |  |
