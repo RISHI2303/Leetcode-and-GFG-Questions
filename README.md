@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3227-find-missing-and-repeated-values) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2681-put-marbles-in-bags](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3647-zero-array-transformation-iii) |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3001-apply-operations-to-maximize-score](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3647-zero-array-transformation-iii) |
 ## Tree
 |  |
@@ -281,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 |  |
 | ------- |
@@ -305,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
 |  |
@@ -345,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2308-divide-array-into-equal-pairs) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
