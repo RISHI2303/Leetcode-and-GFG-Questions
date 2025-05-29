@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2564-most-profitable-path-in-a-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2564-most-profitable-path-in-a-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -294,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2564-most-profitable-path-in-a-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
