@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
