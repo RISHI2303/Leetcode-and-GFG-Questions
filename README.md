@@ -393,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -515,5 +516,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Memoization
 |  |
 | ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
