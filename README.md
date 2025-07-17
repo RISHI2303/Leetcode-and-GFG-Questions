@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3639-zero-array-transformation-i) |
@@ -403,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
 |  |
