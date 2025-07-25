@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3647-zero-array-transformation-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Tree
 |  |
 | ------- |
