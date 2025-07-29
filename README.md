@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2479-meeting-rooms-iii) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1813-maximum-erasure-value](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -472,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2665-minimum-time-to-repair-cars](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -483,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
