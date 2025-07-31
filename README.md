@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2479-meeting-rooms-iii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -490,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2308-divide-array-into-equal-pairs](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -576,4 +578,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
