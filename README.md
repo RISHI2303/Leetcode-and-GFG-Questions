@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0135-candy](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0867-new-21-game) |
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
