@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3430-count-days-without-meetings](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3483-alternating-groups-ii) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3227-find-missing-and-repeated-values) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -580,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2202-sum-of-k-mirror-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3201-distribute-candies-among-children-ii) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
