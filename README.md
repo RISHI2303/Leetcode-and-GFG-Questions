@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0118-pascals-triangle) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0945-snakes-and-ladders) |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0768-partition-labels) |
@@ -408,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
