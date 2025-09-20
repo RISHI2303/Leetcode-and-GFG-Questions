@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3790-fruits-into-baskets-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3827-implement-router) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -430,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2429-design-a-food-rating-system](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
 | ------- |
@@ -602,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3643-zero-array-transformation-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -627,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2408-number-of-people-aware-of-a-secret](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3827-implement-router) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -690,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3678-design-task-manager](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
