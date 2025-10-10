@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3321-type-of-triangle](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3430-count-days-without-meetings](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2249-count-the-hidden-sequences](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2529-range-product-queries-of-powers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2529-range-product-queries-of-powers) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3643-zero-array-transformation-ii) |
