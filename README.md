@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1293-three-consecutive-odds](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1160-letter-tile-possibilities](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1364-tuple-with-same-product) |
 | [1500-count-largest-group](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -332,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
