@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -403,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
@@ -511,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2529-range-product-queries-of-powers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2529-range-product-queries-of-powers) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3643-zero-array-transformation-ii) |
