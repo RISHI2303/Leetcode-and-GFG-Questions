@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3797-design-spreadsheet](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2793-count-the-number-of-complete-components](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2793-count-the-number-of-complete-components](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
@@ -195,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1396-count-servers-that-communicate](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1396-count-servers-that-communicate) |
 | [2793-count-the-number-of-complete-components](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3863-power-grid-maintenance](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -252,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2793-count-the-number-of-complete-components](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3863-power-grid-maintenance](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -350,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -450,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3863-power-grid-maintenance) |
 ## Math
 |  |
 | ------- |
@@ -817,6 +824,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3790-fruits-into-baskets-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Queue
 |  |
 | ------- |
