@@ -641,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1628-count-submatrices-with-all-ones](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -738,6 +739,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -844,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Memoization
 |  |
 | ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
