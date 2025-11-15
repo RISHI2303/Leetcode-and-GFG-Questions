@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2551-apply-operations-to-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2681-put-marbles-in-bags) |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1628-count-submatrices-with-all-ones](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2625-increment-submatrices-by-one](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2625-increment-submatrices-by-one) |
 | [3227-find-missing-and-repeated-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -550,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2529-range-product-queries-of-powers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
