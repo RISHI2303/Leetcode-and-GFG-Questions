@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0945-snakes-and-ladders](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0945-snakes-and-ladders) |
 | [1006-vowel-spellchecker](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1293-three-consecutive-odds) |
@@ -774,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
