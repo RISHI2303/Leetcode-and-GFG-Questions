@@ -413,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2107-find-unique-binary-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2211-count-collisions-on-a-road](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2211-count-collisions-on-a-road) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -447,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -469,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1628-count-submatrices-with-all-ones](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2211-count-collisions-on-a-road](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3001-apply-operations-to-maximize-score) |
