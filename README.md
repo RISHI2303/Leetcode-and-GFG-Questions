@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0945-snakes-and-ladders) |
 | [1006-vowel-spellchecker](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1018-largest-perimeter-triangle) |
@@ -408,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0474-ones-and-zeroes](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0474-ones-and-zeroes) |
 | [0768-partition-labels](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0868-push-dominoes) |
+| [0944-delete-columns-to-make-sorted](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1006-vowel-spellchecker) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1160-letter-tile-possibilities) |
