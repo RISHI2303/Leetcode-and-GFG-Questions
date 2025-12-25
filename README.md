@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2689-rearranging-fruits](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -672,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
