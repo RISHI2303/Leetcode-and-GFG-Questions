@@ -448,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2429-design-a-food-rating-system](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -611,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2625-increment-submatrices-by-one) |
