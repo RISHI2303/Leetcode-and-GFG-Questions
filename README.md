@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2402-meeting-rooms-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2215-finding-3-digit-even-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2402-meeting-rooms-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2402-meeting-rooms-iii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2479-meeting-rooms-iii) |
 | [2681-put-marbles-in-bags](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2681-put-marbles-in-bags) |
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2402-meeting-rooms-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2479-meeting-rooms-iii) |
@@ -480,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2551-apply-operations-to-an-array) |
@@ -512,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1917-maximum-average-pass-ratio](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-two-best-non-overlapping-events](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2054-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2402-meeting-rooms-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2479-meeting-rooms-iii) |
