@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0679-24-game) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0797-rabbits-in-forest](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0840-magic-squares-in-grid) |
@@ -847,6 +848,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1612-avoid-flood-in-the-city) |
