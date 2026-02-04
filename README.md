@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3637-trionic-array-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3640-trionic-array-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -794,6 +795,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3640-trionic-array-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
