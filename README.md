@@ -449,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0165-compare-version-numbers) |
 | [0474-ones-and-zeroes](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0474-ones-and-zeroes) |
 | [0756-pyramid-transition-matrix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0756-pyramid-transition-matrix) |
@@ -514,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0498-diagonal-traverse) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -577,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0342-power-of-four) |
@@ -911,6 +914,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0756-pyramid-transition-matrix) |
