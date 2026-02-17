@@ -689,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0037-sudoku-solver) |
+| [0401-binary-watch](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1160-letter-tile-possibilities) |
@@ -917,6 +918,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
