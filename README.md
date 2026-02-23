@@ -395,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1364-tuple-with-same-product) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1500-count-largest-group](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1590-make-sum-divisible-by-p) |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1302-delete-characters-to-make-fancy-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -931,6 +933,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0868-binary-gap](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1066,6 +1069,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Function
 |  |
 | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Brainteaser
 |  |
@@ -1103,4 +1107,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1382-balance-a-binary-search-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
