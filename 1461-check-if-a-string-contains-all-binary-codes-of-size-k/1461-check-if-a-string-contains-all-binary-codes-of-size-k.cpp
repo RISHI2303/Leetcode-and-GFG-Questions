@@ -6,10 +6,8 @@ public:
         
         unordered_set<string> st;
         
-        for (int i = 0; i <= s.size()-k; i++) // inserting all substrings of length k in the set.
+        for (int i = 0; i <= s.size()-k; i++)
             st.insert(s.substr(i, k));
-        
-        // Ideally, the size of set should be equal to 2^k because if all the possible value of length k are resent, it would count upto 2^k.
         return st.size() == (1<<k);
     }
 };
