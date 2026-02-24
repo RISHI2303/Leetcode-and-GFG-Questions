@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0417-pacific-atlantic-water-flow](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0820-find-eventual-safe-states) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -759,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0110-balanced-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1382-balance-a-binary-search-tree) |
@@ -774,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0110-balanced-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1382-balance-a-binary-search-tree) |
