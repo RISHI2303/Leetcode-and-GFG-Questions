@@ -474,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1302-delete-characters-to-make-fancy-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -526,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0498-diagonal-traverse) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2169-simple-bank-system) |
@@ -940,6 +942,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0934-bitwise-ors-of-subarrays](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
