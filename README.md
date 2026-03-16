@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -353,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -587,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0407-trapping-rain-water-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1612-avoid-flood-in-the-city) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-two-best-non-overlapping-events](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2054-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -635,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1622-fancy-sequence](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2050-count-good-numbers) |
@@ -698,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1477-product-of-the-last-k-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1590-make-sum-divisible-by-p](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2249-count-the-hidden-sequences) |
