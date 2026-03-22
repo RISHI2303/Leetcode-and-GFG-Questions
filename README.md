@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1917-maximum-average-pass-ratio](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1628-count-submatrices-with-all-ones](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
