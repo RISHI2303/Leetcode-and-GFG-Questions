@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2906-construct-product-matrix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3227-find-missing-and-repeated-values) |
@@ -580,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2408-number-of-people-aware-of-a-secret](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2551-apply-operations-to-an-array) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3379-transformed-array) |
@@ -674,6 +677,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3201-distribute-candies-among-children-ii) |
