@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0759-set-intersection-size-at-least-two](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0797-rabbits-in-forest](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0874-walking-robot-simulation) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -422,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0768-partition-labels](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -576,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0498-diagonal-traverse) |
+| [0874-walking-robot-simulation](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
