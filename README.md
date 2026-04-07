@@ -583,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2069-walking-robot-simulation-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2069-walking-robot-simulation-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2211-count-collisions-on-a-road) |
@@ -725,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1477-product-of-the-last-k-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2069-walking-robot-simulation-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3678-design-task-manager) |
