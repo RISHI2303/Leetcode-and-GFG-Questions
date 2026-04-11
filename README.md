@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3721-longest-balanced-subarray-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -484,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3713-longest-balanced-substring-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3797-design-spreadsheet) |
