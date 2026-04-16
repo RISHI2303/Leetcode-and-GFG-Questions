@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3483-alternating-groups-ii) |
+| [3488-closest-equal-element-queries](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -475,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3488-closest-equal-element-queries](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3531-count-covered-buildings) |
 | [3548-find-the-count-of-good-integers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3548-find-the-count-of-good-integers) |
@@ -1023,6 +1025,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3488-closest-equal-element-queries](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
