@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2174-next-greater-numerically-balanced-number](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2833-furthest-point-from-origin](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2833-furthest-point-from-origin) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -559,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2483-minimum-penalty-for-a-shop](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2573-find-the-string-with-lcp) |
+| [2833-furthest-point-from-origin](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2887-sort-vowels-in-a-string) |
