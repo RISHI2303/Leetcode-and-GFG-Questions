@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3225-maximum-score-from-grid-operations](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -786,6 +788,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -951,6 +954,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3225-maximum-score-from-grid-operations](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
