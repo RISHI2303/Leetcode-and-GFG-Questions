@@ -35,7 +35,6 @@ private:
         vector<int> lps(patternLength, 0);
         int length = 0, index = 1;
 
-        // Build the LPS array
         while (index < patternLength) {
             if (pattern[index] == pattern[length]) {
                 length++;
