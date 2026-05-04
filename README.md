@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0075-sort-colors) |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0036-valid-sudoku](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -682,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0231-power-of-two) |
