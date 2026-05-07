@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3660-jump-game-ix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3660-jump-game-ix) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3721-longest-balanced-subarray-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -978,6 +979,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3640-trionic-array-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3660-jump-game-ix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3660-jump-game-ix) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
