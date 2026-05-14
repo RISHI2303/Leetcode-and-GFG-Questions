@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1628-count-submatrices-with-all-ones](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1813-maximum-erasure-value](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1813-maximum-erasure-value) |
@@ -480,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1510-find-lucky-integer-in-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1612-avoid-flood-in-the-city) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -799,6 +801,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1477-product-of-the-last-k-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1590-make-sum-divisible-by-p](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
