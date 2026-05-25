@@ -591,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1871-jump-game-vii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -821,6 +822,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1590-make-sum-divisible-by-p](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -988,6 +990,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1871-jump-game-vii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2054-two-best-non-overlapping-events](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2054-two-best-non-overlapping-events) |
@@ -1059,6 +1062,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0940-fruit-into-baskets](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1813-maximum-erasure-value) |
+| [1871-jump-game-vii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
