@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2107-find-unique-binary-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2107-find-unique-binary-string) |
 | [2126-destroying-asteroids](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2169-simple-bank-system](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -435,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2054-two-best-non-overlapping-events](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2126-destroying-asteroids](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -908,6 +910,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1917-maximum-average-pass-ratio](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2126-destroying-asteroids](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
