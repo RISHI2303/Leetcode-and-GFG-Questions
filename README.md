@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2553-separate-the-digits-in-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2573-find-the-string-with-lcp](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2573-find-the-string-with-lcp) |
+| [2574-left-and-right-sum-differences](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2574-left-and-right-sum-differences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2625-increment-submatrices-by-one) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -846,6 +847,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2529-range-product-queries-of-powers) |
+| [2574-left-and-right-sum-differences](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2574-left-and-right-sum-differences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2906-construct-product-matrix) |
