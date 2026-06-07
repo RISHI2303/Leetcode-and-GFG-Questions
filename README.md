@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2169-simple-bank-system](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -516,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2107-find-unique-binary-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2107-find-unique-binary-string) |
 | [2169-simple-bank-system](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -958,6 +960,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -974,6 +977,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
 |  |
 | ------- |
