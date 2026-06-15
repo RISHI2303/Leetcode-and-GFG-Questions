@@ -1072,6 +1072,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0768-partition-labels](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1311,6 +1312,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Trie
