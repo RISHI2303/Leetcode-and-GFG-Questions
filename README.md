@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1813-maximum-erasure-value](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -928,6 +930,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1917-maximum-average-pass-ratio](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2126-destroying-asteroids](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1392,4 +1395,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0796-rotate-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
