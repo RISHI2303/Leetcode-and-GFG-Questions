@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3721-longest-balanced-subarray-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Graph
@@ -569,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3713-longest-balanced-substring-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -892,6 +895,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3714-longest-balanced-substring-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Backtracking
@@ -1008,6 +1012,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1382-balance-a-binary-search-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3721-longest-balanced-subarray-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1286,6 +1291,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1622-fancy-sequence](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1622-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3721-longest-balanced-subarray-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3791-fruits-into-baskets-iii) |
@@ -1293,6 +1299,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
