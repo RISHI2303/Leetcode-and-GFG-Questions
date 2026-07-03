@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3616-make-array-elements-equal-to-zero](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3620-network-recovery-pathways](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3620-network-recovery-pathways) |
 | [3623-count-number-of-trapezoids-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -431,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1558-course-schedule-iv](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1558-course-schedule-iv) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [3620-network-recovery-pathways](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3620-network-recovery-pathways) |
 ## Sorting
 |  |
 | ------- |
@@ -760,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3620-network-recovery-pathways](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3620-network-recovery-pathways) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3647-zero-array-transformation-iii) |
@@ -1086,6 +1089,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3620-network-recovery-pathways](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3620-network-recovery-pathways) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3640-trionic-array-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -1193,6 +1197,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3488-closest-equal-element-queries](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-network-recovery-pathways](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -1341,6 +1346,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3620-network-recovery-pathways) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Memoization
@@ -1405,6 +1411,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3620-network-recovery-pathways) |
 ## Binary Search Tree
 |  |
 | ------- |
