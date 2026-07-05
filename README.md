@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1293-three-consecutive-odds) |
+| [1301-number-of-paths-with-max-score](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1306-jump-game-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1340-jump-game-v](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1340-jump-game-v) |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0498-diagonal-traverse](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0840-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0945-snakes-and-ladders) |
+| [1301-number-of-paths-with-max-score](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1396-count-servers-that-communicate) |
@@ -1052,6 +1054,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1170-shortest-common-supersequence](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1170-shortest-common-supersequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1301-number-of-paths-with-max-score](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
