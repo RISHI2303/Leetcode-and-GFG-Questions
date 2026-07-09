@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -575,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3488-closest-equal-element-queries](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1206,6 +1208,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-network-recovery-pathways](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3620-network-recovery-pathways) |
@@ -1422,6 +1425,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3620-network-recovery-pathways) |
 ## Binary Search Tree
@@ -1440,6 +1444,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Minimum Spanning Tree
