@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2793-count-the-number-of-complete-components](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2092-find-all-people-with-secret](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2793-count-the-number-of-complete-components](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1425,6 +1427,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1446,6 +1449,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1559-detect-cycles-in-2d-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2573-find-the-string-with-lcp) |
+| [2685-count-the-number-of-complete-components](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
