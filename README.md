@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1293-three-consecutive-odds](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1293-three-consecutive-odds) |
 | [1301-number-of-paths-with-max-score](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1340-jump-game-v](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1345-jump-game-iv) |
@@ -452,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1018-largest-perimeter-triangle](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -528,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1189-maximum-number-of-balloons](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1331-rank-transform-of-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1364-tuple-with-same-product) |
