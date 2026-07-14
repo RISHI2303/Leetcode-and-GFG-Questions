@@ -1293,6 +1293,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0900-reordered-power-of-2) |
+| [1291-sequential-digits](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1291-sequential-digits) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
