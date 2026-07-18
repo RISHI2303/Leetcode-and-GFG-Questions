@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1917-maximum-average-pass-ratio](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -826,6 +827,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1840-maximum-building-height](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2050-count-good-numbers) |
@@ -1159,6 +1161,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
