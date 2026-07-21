@@ -696,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3474-lexicographically-smallest-generated-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3617-find-the-original-typed-string-i) |
@@ -1334,6 +1335,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
