@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3531-count-covered-buildings](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -697,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3617-find-the-original-typed-string-i) |
@@ -1242,6 +1244,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -1363,6 +1366,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1622-fancy-sequence](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1622-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
