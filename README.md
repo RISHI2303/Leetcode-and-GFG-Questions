@@ -510,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3531-count-covered-buildings](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3531-count-covered-buildings) |
+| [3536-maximum-product-of-two-digits](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -870,6 +871,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3462-vowels-game-in-a-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
