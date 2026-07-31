@@ -420,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -502,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2887-sort-vowels-in-a-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -586,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -692,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -1030,6 +1034,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
