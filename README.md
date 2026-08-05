@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3660-jump-game-ix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3660-jump-game-ix) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3721-longest-balanced-subarray-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3731-find-missing-elements) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -530,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3647-zero-array-transformation-iii) |
+| [3731-find-missing-elements](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -620,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3713-longest-balanced-substring-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
