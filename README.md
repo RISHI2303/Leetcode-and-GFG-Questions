@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3660-jump-game-ix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3660-jump-game-ix) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3721-longest-balanced-subarray-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3731-find-missing-elements) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -1353,6 +1354,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Queue
 |  |
