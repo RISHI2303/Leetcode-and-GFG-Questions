@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1590-make-sum-divisible-by-p) |
@@ -872,6 +873,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1510-stone-game-iv](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1563-stone-game-v](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -1153,6 +1155,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1529,6 +1532,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1563-stone-game-v) |
 | [3462-vowels-game-in-a-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
