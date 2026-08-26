@@ -719,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2887-sort-vowels-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1273,6 +1274,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
