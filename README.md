@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3863-power-grid-maintenance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -958,6 +959,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3830-find-closest-person](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Design
 |  |
 | ------- |
