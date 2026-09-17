@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -586,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1364-tuple-with-same-product](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1364-tuple-with-same-product) |
 | [1386-cinema-seat-allocation](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1500-count-largest-group](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1590-make-sum-divisible-by-p) |
@@ -1190,6 +1192,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1340-jump-game-v](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1292,6 +1295,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0940-fruit-into-baskets) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1813-maximum-erasure-value) |
 | [1871-jump-game-vii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1871-jump-game-vii) |
@@ -1329,6 +1333,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
