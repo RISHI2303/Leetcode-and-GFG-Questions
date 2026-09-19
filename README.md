@@ -890,6 +890,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1018-largest-perimeter-triangle](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1140-stone-game-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1572,6 +1573,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
