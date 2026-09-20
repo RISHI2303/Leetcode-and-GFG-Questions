@@ -757,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3474-lexicographically-smallest-generated-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3498-reverse-degree-of-a-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -811,6 +812,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3379-transformed-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3379-transformed-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3447-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
