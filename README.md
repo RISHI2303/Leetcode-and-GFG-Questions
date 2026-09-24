@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3531-count-covered-buildings](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -957,6 +958,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3525-find-x-value-of-array-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3548-find-the-count-of-good-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
