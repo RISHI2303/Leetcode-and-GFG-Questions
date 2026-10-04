@@ -685,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0165-compare-version-numbers) |
 | [0474-ones-and-zeroes](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0474-ones-and-zeroes) |
+| [0678-valid-parenthesis-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0696-count-binary-substrings) |
 | [0756-pyramid-transition-matrix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0761-special-binary-string) |
@@ -841,6 +842,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1094,6 +1096,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0768-partition-labels](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0797-rabbits-in-forest) |
@@ -1206,6 +1209,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0396-rotate-function](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0806-domino-and-tromino-tiling) |
@@ -1702,6 +1706,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
