@@ -341,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0684-redundant-connection) |
@@ -684,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0165-compare-version-numbers) |
+| [0301-remove-invalid-parentheses](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0696-count-binary-substrings) |
@@ -1075,6 +1077,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0037-sudoku-solver) |
+| [0301-remove-invalid-parentheses](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0756-pyramid-transition-matrix) |
