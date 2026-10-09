@@ -716,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -851,6 +852,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1096-brace-expansion-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1116,6 +1118,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1612-avoid-flood-in-the-city](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -1715,5 +1718,6 @@ Collection of LeetCode questions to ace the coding interview!
 | [0856-score-of-parentheses](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
