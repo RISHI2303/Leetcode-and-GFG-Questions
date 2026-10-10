@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -525,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2463-minimum-total-distance-traveled) |
@@ -877,6 +879,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1917-maximum-average-pass-ratio](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-two-best-non-overlapping-events](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2054-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1135,6 +1138,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1390,6 +1394,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
