@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1018-binary-prefix-divisible-by-5](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1140-stone-game-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1288-remove-covered-intervals) |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1306-jump-game-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1382-balance-a-binary-search-tree) |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0945-snakes-and-ladders](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0945-snakes-and-ladders) |
 | [1096-brace-expansion-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1096-brace-expansion-ii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -402,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0835-image-overlap](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0840-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/0945-snakes-and-ladders) |
+| [1254-number-of-closed-islands](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1702,6 +1706,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
