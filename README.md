@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3620-network-recovery-pathways](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3620-network-recovery-pathways) |
 | [3623-count-number-of-trapezoids-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3623-count-number-of-trapezoids-i) |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3310-remove-methods-from-project](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3863-power-grid-maintenance) |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -439,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -1717,6 +1721,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Minimum Spanning Tree
 |  |
