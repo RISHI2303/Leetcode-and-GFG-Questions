@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3525-find-x-value-of-array-ii) |
@@ -675,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3483-unique-3-digit-even-numbers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3531-count-covered-buildings](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3548-find-the-count-of-good-integers) |
@@ -915,6 +917,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3620-network-recovery-pathways](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3620-network-recovery-pathways) |
@@ -1008,6 +1011,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3432-count-partitions-with-even-sum-difference](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3525-find-x-value-of-array-ii) |
@@ -1316,6 +1320,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -1400,6 +1405,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3483-alternating-groups-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3483-alternating-groups-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/RISHI2303/Leetcode-and-GFG-Questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
